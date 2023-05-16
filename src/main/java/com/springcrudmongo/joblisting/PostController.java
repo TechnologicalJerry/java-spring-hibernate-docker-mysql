@@ -1,4 +1,4 @@
-package com.springcrudmongo.joblisting;
+package main.java.com.springcrudmongo.joblisting;
 
 import com.telusko.joblisting.repository.PostRepository;
 import com.telusko.joblisting.model.Post;
