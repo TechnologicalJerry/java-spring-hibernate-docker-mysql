@@ -24,4 +24,8 @@ public class JoblistingApplication {
 		return builder.build();
 	}
 
+	public static void main(String[] args) {
+		SpringApplication.run(JoblistingApplication.class, args);
+	}
+
 }
