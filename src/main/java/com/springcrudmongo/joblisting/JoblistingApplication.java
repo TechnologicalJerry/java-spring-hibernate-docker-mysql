@@ -18,4 +18,10 @@ public class JoblistingApplication {
 				.build().apiInfo(apiInfo()).useDefaultResponseMessages(false);
 	}
 
+	@Bean
+	public ApiInfo apiInfo() {
+		final ApiInfoBuilder builder = new ApiInfoBuilder();
+		return builder.build();
+	}
+
 }
