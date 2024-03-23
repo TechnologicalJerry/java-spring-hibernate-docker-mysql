@@ -1,1 +1,1 @@
-# swagger-springboot-mongodb
+# java-spring-hibernate-docker-mysql
